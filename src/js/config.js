@@ -1,0 +1,1 @@
+export const api = '6fc23262997942dc95aaf81565f27072';
